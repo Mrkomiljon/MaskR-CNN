@@ -1,0 +1,1 @@
+python src/mask_rcnn.py --input inference_data/4.jpg --threshold 0.5
