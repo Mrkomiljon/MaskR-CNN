@@ -1,1 +1,1 @@
-# MaskR-CNN for instance segmentation
+# Mask R-CNN for instance segmentation
