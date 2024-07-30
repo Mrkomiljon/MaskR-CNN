@@ -11,7 +11,7 @@ conda activate MaskR-CNN
 ```
 # for inference
 ```bash
-
+python src/mask_rcnn.py --input please/insert/your/image.jpg --threshold 0.5
 ```
 ## 🔥 Results
 
