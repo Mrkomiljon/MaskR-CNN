@@ -9,7 +9,7 @@ cd MaskR-CNN
 conda create -n MaskR-CNN python==3.9.18
 conda activate MaskR-CNN
 ```
-# for inference
+# For inference
 ```bash
 python src/mask_rcnn.py --input please/insert/your/image.jpg --threshold 0.5
 ```
