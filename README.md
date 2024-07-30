@@ -2,12 +2,16 @@
 ## 🔥 Getting Started
 ### 1. Clone the code and prepare the environment
 ```bash
-git clone https://github.com/Mrkomiljon/face-segmentation_pytorch.git
-cd face-segmentation_pytorch
+git clone https://github.com/Mrkomiljon/MaskR-CNN.git
+cd MaskR-CNN
 
 # create env using conda
-conda create -n face-segmentation python==3.9.18
-conda activate face-segmentation
+conda create -n MaskR-CNN python==3.9.18
+conda activate MaskR-CNN
+```
+# for inference
+```bash
+
 ```
 ## 🔥 Results
 
