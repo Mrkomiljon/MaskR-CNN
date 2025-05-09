@@ -50,7 +50,7 @@ result = draw_segmentation_map(orig_image, masks, boxes, labels)
 # cv2.waitKey(0)
 
 # set the save path
-Root ="C:\\Users\\USER\\Desktop=\\MrShahrullo\\Seg_MaskRCCN\\results\\"
+Root ="your_input_path"
 save_path = f'Root{args["input"].split("/")[-1].split(".")[0]}.jpg'
 cv2.imwrite(save_path, result) 
 print("Result saved")
